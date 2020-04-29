@@ -1,1 +1,18 @@
-body {background-color: #f08127; }
+body {background-color: #fc851c;}
+
+  p {color: white;
+      tex-align: center
+
+  }
+  h1 {color: white;text-allign: center }
+  h2 {color: red;text-allign: center }
+  h3 {color: blue;text-allign: center }
+  h4 {color: darkgreen;text-allign: center }
+
+  div {background-color: white;
+      width: 500px;
+      height: 100px;
+      margin: 10px;
+
+  }
+  </div>
