@@ -5,14 +5,15 @@ body {background-color: #fc851c;}
 
   }
   h1 {color: white;text-allign: center }
-  h2 {color: red;text-allign: center }
+  h2 {color: darkgreen;text-allign: center }
   h3 {color: blue;text-allign: center }
-  h4 {color: darkgreen;text-allign: center }
+  h4 {color: #662b00;text-allign: center }
 
-  div {background-color: white;
+  div {background-color: #662b00;
       width: 500px;
-      height: 100px;
+      height:450px;
       margin: 10px;
+      padding: 20px
 
   }
   </div>
