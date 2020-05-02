@@ -2,19 +2,19 @@ body {background-color: #fc851c;}
 
   p {color: white;
       tex-align: center;
-      
+
 
   }
-  h1 {color: white;text-allign: center; }
-  h2 {color: darkgreen;text-allign: center; }
-  h3 {color: blue;text-allign: center; }
-  h4 {color: brown;text-allign: center; }
-  h5 {color: white;text-allign: center; }
+  h1 {color: white;text-allign: center;font-family: verdana; }
+  h2 {color: darkgreen;text-allign: center; font-family: verdana; }
+  h3 {color: blue;text-allign: center; font-family: verdana; }
+  h4 {color: brown;text-allign: center; font-family: verdana; }
+  h5 {color: white;text-allign: center;font-family: verdana; }
 
   div {
       background-color: #662b00;
       width: 500px;
-      height:480px;
+      height:490x;
       margin: 0 auto;
       padding: 20px;
   }
